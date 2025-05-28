@@ -1,8 +1,8 @@
-# SAyHello v2.0
+# SayHello v2.0
 
 ![hello](https://raw.githubusercontent.com/Masterdas/sayhello/refs/heads/main/Screenshot_2025.png)
 
-### ▶️ [Demo Setup video](https)
+### ▶️ [Demo Setup video](https://youtu.be/Ic2uEkhei6E)
 
 ### Features: update version 
 
