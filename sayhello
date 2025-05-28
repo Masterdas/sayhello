@@ -1,2 +1,11 @@
-cd /data/data/com.termux/files/home/seyhello
-bash seyhello.sh
+#!/bin/bash
+
+# Termux হোম ডিরেক্টরি ব্যবহার করে
+cd /data/data/com.termux/files/home/sayhello || { echo "Directory not found!"; exit 1; }
+
+if [[ -x sayhello.sh ]]; then
+    ./sayhello.sh
+else
+    echo "sayhello.sh is not executable. Trying with 'bash sayhello.sh'..."
+    bash sayhello.sh
+fi
