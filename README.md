@@ -1,4 +1,5 @@
 # SayHello v2.0
+A simple phishing and port-forwarding toolkit using Cloudflared and custom server for Termux. Created by ZeroDark Nexus.
 
 ![hello](https://raw.githubusercontent.com/Masterdas/sayhello/refs/heads/main/Screenshot_2025.png)
 
